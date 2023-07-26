@@ -1,0 +1,15 @@
+1. Create a database NotesDB
+2. Create a table  notes
+3. Table should contains id (Autoincrement), notes (TEXT), isdone (int) 
+4. Enter 10 rows of data into notes table
+5. Fetch all data and display results 
+6. Fetch last inserted row 
+7. Fetch first inserted row
+8. Fetch first 5 rows
+9. Fetch last 5 rows 
+10.Fetch all rows which contans "Letter N" 
+11. Update 10th note based on ID
+12. Update all isdone to 1
+13. Update first 5 isdone to 0 
+14. Delete 17th row based on ID
+15. fetch all data who's isdone is 0 and vice versa.  
